@@ -16,10 +16,10 @@ Some popular tools for this are NGINX, HAProxy, and if you're on AWS then their 
 
 ## Scaling Up vs Scaling Out
 
-**Vertical Scaling **
+**Vertical Scaling**
 This is when you just update your existing server - more RAM, better CPU, faster storage, etc. It's  easy to do and see results quickly. The problem here is you can upgrade before you hit physical limits.
 
-**Horizontal Scaling (Scaling Out)**  
+**Horizontal Scaling**  
 Instead of making one server stronger, add more servers to share the work. It takes more planning but it is very useful in long term. Plus if one server dies, you've got others to keep things running.
 
 For modern apps, specially when we use microservices gets more benefits when we use horizotal scaling.
