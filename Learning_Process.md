@@ -2,6 +2,7 @@ Learning Process
 
 Question 1
 What is the Feynman Technique? Explain in 1 line.
+
 It's a way to learn by explaining something in simple words, as if you're teaching it to a younger kid.
 
 Question 2
